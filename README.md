@@ -1,9 +1,9 @@
 <p><img align="center" src="https://cdn.discordapp.com/attachments/1032908529130020884/1032908551728934922/Adobe_Express_20221021_0847260_1.png"/></p>
-<h1 align="center">Hi 👋, I'm Bencso</h1>
-<h3 align="center">from 🇭🇺</h3>
+<h1 align="center">Üdv itt 👋, Bencso vagyok</h1>
+<h3 align="center">🇭🇺-ról</h3>
 
 
-- 🌱 I’m currently learning **JS,C#**
+- 👩‍💻 Jelenleg ezeket tanulom **JS,C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
