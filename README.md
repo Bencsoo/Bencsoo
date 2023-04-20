@@ -11,16 +11,16 @@
 <div>
 <h2>🖥:</h2>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color="lime"/><br>
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white&color="lime"/><br>
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_6600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white&color="lime"/>
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=lime&color="lime"/><br>
+<img src="https://img.shields.io/badge/AMD-Radeon_RX_6600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=lime&color="lime"/>
 </div>
 
 <div>
 
 <h2>🔧:</h2>
 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=lime&color="lime")<br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=lime&color="lime")<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=lime&color="lime")<br>
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=lime&color="lime")
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=whitecolor="lime")<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color="lime")<br>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color="lime")<br>
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whitecolor="lime")
 </div>
