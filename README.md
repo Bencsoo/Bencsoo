@@ -11,7 +11,7 @@
 <div>
 <h2>🖥:</h2>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=lime"/><br>
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_6600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </div>
 
